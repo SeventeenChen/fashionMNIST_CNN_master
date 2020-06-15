@@ -2,11 +2,11 @@
 
 ## CNN模型
 
-# ![CNN Model](E:\ML\Pictures\fashionMNIST_CNN\CNN.png)
+# ![CNN Model](images/CNN.png)
 
 ## 模型参数
 
-![Summary](E:\ML\Pictures\fashionMNIST_CNN\CNN_summary.png)
+![Summary](images/CNN_summary.png)
 
 ## 优化函数
 
