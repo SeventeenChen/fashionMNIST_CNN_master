@@ -26,7 +26,7 @@ SGD + Nesterov Momentum
 CUDA_VISIBLE_DEVICE=0 python train.py
 ```
 
-**CUDA_VISIBLE_DEVICE**对应显卡序号：
+**CUDA_VISIBLE_DEVICE**对应显卡序号，本实验所用显卡为一块GeForce GTX 1080 Ti：
 
 ```python
 nvidia-smi
