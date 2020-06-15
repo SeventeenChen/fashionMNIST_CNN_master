@@ -18,7 +18,7 @@ SGD + Nesterov Momentum
 
 | 训练集准确率            | 验证集准确率             | 测试集准确率            |
 | ----------------------- | ------------------------ | ----------------------- |
-| <center>93.01%</center> | <center>93.04%</center>> | <center>93.75%</center> |
+| <center>93.01%</center> | <center>93.04%</center> | <center>93.75%</center> |
 
 ## 模型训练
 
