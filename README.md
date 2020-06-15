@@ -50,5 +50,5 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 
 ## 参考
 
-[ashmeet13]: https://github.com/ashmeet13/FashionMNIST-CNN
+[[ashmeet13](https://github.com/ashmeet13)]()
 
