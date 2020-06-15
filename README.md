@@ -46,7 +46,7 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 
 ## TO DO
 
-- [ ] readme.md in English
+- [ ] README.md in English
 
 ## 参考
 
