@@ -8,6 +8,17 @@
 
 ![Summary](images/CNN_summary.png)
 
+## python相关配置
+
+- python 3.6
+- modelsummary==1.1.7
+- music21==5.7.2
+- numpy==1.16.4
+- pandas==1.0.4
+- tensorboard==1.14.0
+- torch==1.4.0+cu100
+- torchvision==0.5.0+cu100
+
 ## 优化函数
 
 ```
