@@ -69,5 +69,6 @@ CUDA_VISIBLE_DEVICE=0 python test.py
 
 ## 参考
 
-[ashmeet13](https://github.com/ashmeet13)
+- [1] [ashmeet13](https://github.com/ashmeet13)
+- [2]  Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. [arXiv:1708.07747](http://arxiv.org/abs/1708.07747)
 
