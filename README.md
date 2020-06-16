@@ -13,7 +13,7 @@
 6层结构，2层卷积 + 2层最大池化 + 2层全连接层
 
 - kernel size： ![](http://latex.codecogs.com/gif.latex?\\5\times5), stride = 1, padding = 2; ![](http://latex.codecogs.com/gif.latex?\\3\times3), stride = 1, padding = 2
-- AvgPooling：![](http://latex.codecogs.com/gif.latex?\\2\times2), stride: 1
+- MaxPooling：![](http://latex.codecogs.com/gif.latex?\\2\times2), stride: 1
 - 本实验使用ReLU激活函数
 
 ## python相关配置
